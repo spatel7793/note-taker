@@ -1,0 +1,17 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "- [Description](#description)   - [Installation](#installation)   - [Usage](#usage)   - [Contribution](#contribution)   - [Testing](#testing)   - [Contact](#contact)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sameer",
+  "license": "PennLPS",
+  "dependencies": {
+    "express": "^4.18.1",
+    "shortid": "^2.2.16"
+  }
+}
